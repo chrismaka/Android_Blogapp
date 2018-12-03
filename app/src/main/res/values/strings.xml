@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OPENING APP</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+    <string name="action_add">Add</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="home">HOME</string>
+    <string name="stories">STORIES</string>
+    <string name="action_settings">Settings</string>
+    <string name="twiga">Your Africa Tourism Guide</string>
+    <string name="title_activity_main22">Main22Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="welcome_text">AFRICA\'S TOUR GUIDE</string>
+</resources>
